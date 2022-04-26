@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Galaxy202
+- 👀 I’m mostly playing roblox 
+- 🌱 I’m currently learning VR HTML
+- 🌌 I love things that start with galaxy!
+- I have made things that I know are boring and some are gonna be cool!
+- Stay Stuned for new things 
+- Peace (from galaxydevel0per)
