@@ -1,6 +1,6 @@
-- [x] 👋 Hi, I’m @Galaxy202
-- [x] 👀 I’m mostly on Discord 
-- [x] 🌌 I love things that start with galaxy!
-- [x] I have made things that I know are boring and some are gonna be cool!
-- [x] Stay Stuned for new things 
-- [x] Peace (from galaxydevel0per)
+---
+# Galaxy202
+---
+<details><summary>Who are you</summary>
+  <p>I am<b> galaxydevel0per</b>, a devel0per who likes making websites, and making minecraft servers for fun!</p>
+</details>
