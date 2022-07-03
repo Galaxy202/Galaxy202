@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Galaxy202
-- 👀 I’m mostly on Discord 
-- 🌌 I love things that start with galaxy!
-- I have made things that I know are boring and some are gonna be cool!
-- Stay Stuned for new things 
-- Peace (from galaxydevel0per)
+- [x] 👋 Hi, I’m @Galaxy202
+- [x] 👀 I’m mostly on Discord 
+- [x] 🌌 I love things that start with galaxy!
+- [x] I have made things that I know are boring and some are gonna be cool!
+- [x] Stay Stuned for new things 
+- [x] Peace (from galaxydevel0per)
