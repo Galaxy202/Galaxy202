@@ -1,12 +1,7 @@
----
-# Galaxy202
----
-<details><summary>Who are you</summary>
-  <p>I am<b> galaxydevel0per</b>, a devel0per who likes making websites, and making minecraft servers for fun!</p>
-  <hr>
-</details>
-<details><summary>Do you like being a Devel0per</summary>
-yes<br>
-  <hr>
-</details>
 
+<div align="center">
+  <img src="https://static.wikia.nocookie.net/meme20200/images/0/08/Site-background-dark/revision/latest">
+</div>
+
+<h1 align="center">Hi 👋, I'm GalaxyDevel0per</h1>
+<h3 align="center">A Java Programmer</h3>
