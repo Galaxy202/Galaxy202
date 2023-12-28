@@ -5,7 +5,7 @@
 
 <h2 align="center">Hi 👋, I'm GalaxyDevel0per<br><br>☕️ Java Programmer</h2>
 
-![Profile Views](https://komarev.com/ghpvc/?username=galaxy202&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=galaxy202&style=for-the-badge&color=581c87)
 <a href="https://www.github.com/galaxy202" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/galaxy202?logo=github&style=for-the-badge&color=0891b2&labelColor=581c87" /></a>
 
