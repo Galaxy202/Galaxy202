@@ -9,8 +9,6 @@
 <a href="https://www.github.com/galaxy202" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/galaxy202?logo=github&style=for-the-badge&color=0891b2&labelColor=581c87" /></a>
 
-<b>Contact me at:</b><br>
-<a href="https://discord.gg/pvMdwVhekf"><img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" alt="Discord" width="40" height="40" /></a><br>
 <b>Programming Languages and Tools:</b><br>
 <p align="left">
 
