@@ -3,7 +3,7 @@
   <img src="https://github.com/Galaxy202/Galaxy202/blob/main/meme20200-wallpaper.png?raw=true">
 </div>
 
-<h2 align="center">Hi 👋, I'm GalaxyDevel0per<br><br>☕️ Java Programmer</h2>
+<h2 align="center">Hi 👋, I'm GalaxyDevel0per<br><br>☕️ Person on the internet.</h2>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=galaxy202&style=for-the-badge&color=581c87)
 <a href="https://www.github.com/galaxy202" target="_blank" rel="noreferrer"><img
